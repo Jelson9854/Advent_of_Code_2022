@@ -3,6 +3,7 @@
 Created on Sun Dec  4 19:57:35 2022
 
 @author: Jelson
+This is my attempt at AdventofCode2022
 
 """
 import heapq
