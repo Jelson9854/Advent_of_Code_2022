@@ -1,1 +1,1 @@
-This is my verbose code for solving Advent of Code in 2022
+This is my verbose python code for solving Advent of Code in 2022
